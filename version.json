@@ -1,5 +1,5 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.28",
   "versionCode": 29,
   "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.28/app-release.apk",
   "releaseNotes": "Encrypted SQLite backup, auto-update with progress bar",
