@@ -1,7 +1,7 @@
 {
-  "version": "1.0.39",
-  "versionCode": 40,
-  "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.39/app-release.apk",
-  "releaseNotes": "Fixed Android launcher icon cropping and improved APK update signing",
+  "version": "1.0.40",
+  "versionCode": 41,
+  "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.40/app-release.apk",
+  "releaseNotes": "Fixed Android SQLite startup configuration",
   "releaseDate": "2026-11-12"
 }
