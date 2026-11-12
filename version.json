@@ -1,8 +1,8 @@
 {
-  "version": "1.0.47",
-  "versionCode": 48,
-  "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.47/app-release.apk",
-  "releaseNotes": "Added Dashboard KPI icons and Peak Hour, an Inventory pie chart, and improved POS and profile readability",
+  "version": "1.0.48",
+  "versionCode": 49,
+  "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.48/app-release.apk",
+  "releaseNotes": "Added the Payment Mix empty-state chart and refined tablet login, Dashboard KPI labels, and bottom navigation",
   "releaseDate": "2026-11-12"
 }
 
