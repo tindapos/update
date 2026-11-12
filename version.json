@@ -1,7 +1,7 @@
 {
-  "version": "1.0.42",
-  "versionCode": 43,
-  "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.42/app-release.apk",
-  "releaseNotes": "Fixed update downloads; expanded barcode catalogs and saved new product images",
+  "version": "1.0.43",
+  "versionCode": 44,
+  "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.43/app-release.apk",
+  "releaseNotes": "Added full-image previews and fit-to-frame POS product images",
   "releaseDate": "2026-11-12"
 }
