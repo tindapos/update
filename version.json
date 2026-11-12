@@ -1,7 +1,7 @@
 {
-  "version": "1.0.38",
-  "versionCode": 39,
-  "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.38/app-debug.apk",
-  "releaseNotes": "Updated the app name and Android icon to eTinda POS",
+  "version": "1.0.39",
+  "versionCode": 40,
+  "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.39/app-release.apk",
+  "releaseNotes": "Fixed Android launcher icon cropping and improved APK update signing",
   "releaseDate": "2026-11-12"
 }
