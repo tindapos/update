@@ -2,6 +2,6 @@
   "version": "1.0.56",
   "versionCode": 57,
   "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.56/app-release.apk",
-  "releaseNotes": "Added a blocking payment progress state after Confirm & Pay to show processing and prevent duplicate or interrupted cash settlement.",
+  "releaseNotes": "Modern UI redesign — cleaner cards, pill tabs, improved bottom nav, better typography and spacing",
   "releaseDate": "2026-11-13"
 }
