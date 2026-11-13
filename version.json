@@ -1,7 +1,7 @@
 {
-  "version": "1.0.56",
-  "versionCode": 57,
-  "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.56/app-release.apk",
-  "releaseNotes": "Modern UI redesign — cleaner cards, pill tabs, improved bottom nav, better typography and spacing",
+  "version": "1.0.58",
+  "versionCode": 59,
+  "apkUrl": "https://github.com/tindapos/update/releases/download/v1.0.58/app-release.apk",
+  "releaseNotes": "Show payment progress for cash and non-cash settlements; color out-of-stock product indicators red.",
   "releaseDate": "2026-11-13"
 }
